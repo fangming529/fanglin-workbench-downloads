@@ -2,13 +2,13 @@
 
 此仓库仅用于公开安装包，不包含私有源码、密钥或用户数据。
 
-## Windows 64 位测试版 V2.0.20
+## Windows 64 位测试版 V2.0.21
 
-[下载安装包及说明](https://github.com/fangming529/fanglin-workbench-downloads/releases/tag/workbench-2.0.20-windows-test)
+[下载安装包及说明](https://github.com/fangming529/fanglin-workbench-downloads/releases/tag/workbench-2.0.21-windows-test)
 
 包含三维场景渲染、PPT 预览删除及图片压缩修复，内嵌方林画布 1.35.0。TT-6Astra 暂未启用。
 
-请先备份原数据目录，保存任务并退出工作台，再下载 EXE 运行安装向导。当前应用内在线更新接口尚未接通，需要从下载页手动下载安装。测试版使用独立应用渠道。
+请先备份原数据目录，保存任务并退出工作台，再下载 EXE 运行安装向导。2.0.20 及更早版本需先手动安装本版一次；此后在“设置 → 版本更新 → 检查更新”检查后续版本，点击“下载更新”可自动下载、校验并启动安装向导。不是完全静默安装。测试版使用独立应用渠道，不向正式版推送。
 
 ## Mac 发布状态
 
