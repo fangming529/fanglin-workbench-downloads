@@ -1,7 +1,0 @@
-{
-  "appId": "com.fanglin.workbench.test",
-  "arch": "arm64",
-  "version": "2.0.19",
-  "downloadUrl": "https://github.com/fangming529/fanglin-workbench-downloads/releases/download/workbench-2.0.19-test/Fanglin-Workbench-2.0.19-TEST-scene-mac-arm64.dmg",
-  "sha256": "8fce09ed839751bead8ac0933addd6ed0e4ab426c3d0d5fe0566dd109e37a3e8"
-}
