@@ -1,7 +1,7 @@
 {
   "appId": "com.fanglin.workbench.test",
   "platform": "win32-x64",
-  "version": "2.0.21",
-  "sha256": "4a2daa6391ddca714904a6a7d9f18bbf5da002cdd51c82926353b2263be00352",
-  "downloadUrl": "https://github.com/fangming529/fanglin-workbench-downloads/releases/download/workbench-2.0.21-windows-test/Fanglin-Workbench-2.0.21-TEST-scene-win10-x64.exe"
+  "version": "2.0.22",
+  "sha256": "715e6bf57148f062f713189b7bf0121490ac0b2f51fbc2b4dc974414c7ab0c21",
+  "downloadUrl": "https://github.com/fangming529/fanglin-workbench-downloads/releases/download/workbench-2.0.22-windows-test/Fanglin-Workbench-2.0.22-TEST-social-win10-x64.exe"
 }
